@@ -1,2 +1,2 @@
 # BugBasher
-Turning Debugging into an AI-Powered Adventure, One Test Case at a Time.
+LLM based debugging using test cases as extra information to assist the LLM debugger
